@@ -17,6 +17,7 @@ export const Excercises = ({ exercises, setExercises, bodyPart }) => {
     const currentExercises = exercises.slice(indexOfFirstExercise, indexOfLastExercise)
 
     const paginate = (e, value) => {
+        
         setCurrentPage(value);
 
         window.scrollTo({ top: 1800, behavior: 'smooth' })
