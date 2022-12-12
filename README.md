@@ -2,7 +2,17 @@
 
 Gym app is an application that consumes an exercise api from Rapid API. It shows a list of exercises separated by body muscle group, you can also access the detail of each exercise and a video showing how to practice the exercise. Developed with create react app is responsive and can be viewed on all devices.
 
-[Url App](https://www.example.com)
+## Stack
+
+- React horizontal scrolling menu
+- React loader spinner
+- React router dom
+- Axios
+- Material UI
+
+## Project URL
+
+[GYM App](https://www.example.com)
 
 ## Home view
 
